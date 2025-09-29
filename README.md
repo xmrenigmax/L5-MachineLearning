@@ -37,3 +37,5 @@ For the Bournemouth year 2 machine learning module.
     - Declaration
     - reflection
 
+## Lab1
+- Practice python tools
