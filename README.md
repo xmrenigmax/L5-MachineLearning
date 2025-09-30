@@ -1,41 +1,84 @@
-# L5-MachineLearning
+# 🎓 L5 Machine Learning – Bournemouth University (Year 2)
 
-For the Bournemouth year 2 machine learning module.
+This repository contains coursework and resources for the **Level 5 Machine Learning module**.  
+The module is assessed via **two coursework components**:
 
-40% assessment 1 
-60% assessment 2
+- 📝 **Assessment 1 (40%)** – Data analysis and presentation  
+- 🤖 **Assessment 2 (60%)** – Machine learning workflow design and implementation  
 
-## Assessment 1 - 40%
-- pick a dataset and use statistical analysis and visualise the data.
+---
 
-### Task Breakdown for Submission
-1. Video Presentation ( 5 minutes )
-2. Task 1.1 - Key info
-3. Task 1.2 - Data Quality 
-4. Task 1.3 - Insights
+## 📊 Datasets
+We will be working with the following datasets:  
+- 🎮 Online Gaming Behaviour Datasets  
+- ☕ Global Coffee & Health Datasets  
 
-## Assessment 2 - 60%
-- Design an ML workflow including the data processing, ML model and evaluation
+---
 
-### Task Breakdown for Submission
-1. Task 2.1 - Design
-    - Design an ML workflow
-    - ML models
-    - Evaluation
-    - connect with data analysis
-    - referencing literature
-2. Task 2.2 - Implementation
-    - Implement ML workflow
-    - Python in Juypter
-    - Must run on Google Colab
-3. Task 2.3 - Discussion Of Results
-    - Run ML models -> Collect Results
-    - Presenting Results
-    - Statisitical test for comparison
-    - Critical Evaluation of Performance
-4. Task 2.4 - Ai Use
-    - Declaration
-    - reflection
+## 📝 Assessment 1 – 40%  
+**Deadline:** 25th November 2025  
+**Submission Type:** 5-minute video presentation  
 
-## Lab1
-- Practice python tools
+### Task Breakdown
+1. 🎥 **Video Presentation** – 5 minutes  
+2. 📌 **Task 1.1 – Key Information**  
+3. 📊 **Task 1.2 – Data Quality**  
+4. 💡 **Task 1.3 – Insights**  
+
+---
+
+## 🤖 Assessment 2 – 60%  
+**Deadline:** 20th January 2026  
+**Submission Type:** Report + Code (Google Colab compatible)  
+
+### Task Breakdown
+1. **Task 2.1 – Design (Report)**  
+   - ML workflow design  
+   - Choice of ML models  
+   - Evaluation methods  
+   - Connection with data analysis  
+   - Referencing relevant literature  
+
+2. **Task 2.2 – Implementation (Code)**  
+   - ML workflow in Python (Jupyter Notebook)  
+   - Must run on Google Colab  
+
+3. **Task 2.3 – Discussion of Results (Report)**  
+   - Run ML models & collect results  
+   - Present results effectively  
+   - Statistical tests for comparison  
+   - Critical evaluation of performance  
+
+4. **Task 2.4 – AI Use (Declarations)**  
+   - Declaration of AI assistance  
+   - Reflection on AI use  
+
+---
+
+## 🧪 Labs
+- **Lab 1** – Practising Python tools  
+
+---
+
+## ⚙️ Requirements
+To run the notebooks, install the following dependencies:
+
+```bash
+# Core
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+jupyter
+
+# ML frameworks
+tensorflow / keras
+
+# Extra (recommended)
+seaborn
+
+```
+
+```zsh
+Install requirements with: **MPVE**
