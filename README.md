@@ -41,7 +41,7 @@ We will be working with the following datasets:
 
 2. **Task 2.2 – Implementation (Code)**  
    - ML workflow in Python (Jupyter Notebook)  
-   - Must run on Google Colab  
+   - Must run on Google Collab  
 
 3. **Task 2.3 – Discussion of Results (Report)**  
    - Run ML models & collect results  
